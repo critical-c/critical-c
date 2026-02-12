@@ -55,12 +55,12 @@ Sistema web completo para la gestión de proyectos, tareas, presupuestos y entre
 
 ## 🔥 Actividad general
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=critical-c&show_icons=true&count_private=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=critical-c&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 </p>
 
 ## 🧠 Lenguajes más usados
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=critical-c&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=critical-c&layout=compact&theme=tokyonight" />
 </p>
 
 ## ⚡ Racha de contribuciones
