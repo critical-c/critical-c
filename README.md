@@ -2,10 +2,10 @@
 
 💻 Backend Developer | Data & Software Engineer  
 🚀 APIs REST • Bases de Datos • Automatización • Sistemas Web  
-📍 Colombia
+📍 Colombia  
 
-Desarrollo software enfocado en backend, arquitectura limpia y soluciones escalables.  
-Me especializo en APIs, bases de datos y sistemas de gestión empresariales.
+Desarrollo software enfocado en backend, arquitectura limpia y soluciones escalables.
+Especializado en APIs REST, bases de datos y sistemas de gestión empresariales.
 
 ---
 
@@ -28,62 +28,46 @@ Me especializo en APIs, bases de datos y sistemas de gestión empresariales.
 
 ---
 
-## 🚀 Proyecto destacado
+# 🚀 Proyecto Destacado
 
-### 📊 Sistema de Gestión de Proyectos
-Aplicación web completa para administrar proyectos, actividades, presupuestos y entregables.
+## 🧾 Sistema de Gestión de Facturas
+
+Aplicación web full-stack para administrar clientes, facturas y pagos.
 
 **Stack:**
-- C# (.NET API)
-- Flask + Jinja
-- PostgreSQL
+- C# (.NET API REST)
+- Flask + Jinja (Frontend)
+- PostgreSQL / SQL Server
 
-**Incluye:**
-- Autenticación JWT
-- CRUD completo
-- Control presupuestal
+**Características:**
+- Login y autenticación
+- CRUD de facturas y clientes
+- API REST desacoplada
 - Arquitectura cliente-servidor
-- API REST documentada
-
-🔗 https://github.com/critical-c/API-Front-C--DATA_BASE
+- Base de datos relacional
+- Entorno virtual Python (venv)
 
 ---
 
 # 📊 Estadísticas de GitHub
 
-## 🔥 Actividad y commits
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=critical-c&show_icons=true&count_private=true&theme=tokyonight" />
-</p>
+## 🔥 Actividad
+![Stats](https://github-readme-stats.vercel.app/api?username=critical-c&show_icons=true&count_private=true&theme=tokyonight)
 
 ## 🧠 Lenguajes más usados
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=critical-c&layout=compact&theme=tokyonight" />
-</p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=critical-c&layout=compact&theme=tokyonight)
 
 ## ⚡ Racha de contribuciones
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=critical-c&theme=tokyonight" />
-</p>
+![Streak](https://streak-stats.demolab.com?user=critical-c&theme=tokyonight)
 
 ---
 
-## 🎯 Enfoque actual
+# 📫 Contacto
 
-- Arquitectura backend limpia
-- APIs REST robustas
-- Optimización de bases de datos
-- Automatización de procesos
-- Proyectos con impacto real
-
----
-
-## 📫 Contacto
-
-- GitHub: https://github.com/critical-c
+- GitHub: https://github.com/TU_USUARIO_AQUI
 - LinkedIn: https://www.linkedin.com/in/jeferson-vega-75a13a202/
 - Email: jefersondavidvegacardona@gmail.com
 
 ---
 
-⭐ Siempre abierto a colaborar en proyectos interesantes y oportunidades tech.
+⭐ Siempre construyendo, siempre aprendiendo.
