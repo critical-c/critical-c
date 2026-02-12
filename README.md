@@ -1,102 +1,88 @@
-# 👋 Hola, soy Jeferson Vega
+# 👋 Jeferson Vega
 
-💻 Ingeniero de Datos y Software  
-🚀 Backend • APIs • Bases de Datos • Automatización • IA  
-📍 Colombia  
+💻 Backend Developer | Data & Software Engineer  
+🚀 APIs REST • Bases de Datos • Automatización • Sistemas Web  
+📍 Colombia
 
-Construyo soluciones backend sólidas, APIs REST, sistemas de gestión y automatización con enfoque en rendimiento, escalabilidad y buenas prácticas.
-
----
-
-## 🛠️ Tecnologías principales
-
-### 👨‍💻 Backend
-- C# (.NET / ASP.NET Web API)
-- Python (Flask / FastAPI)
-- Node.js
-
-### 🗄️ Base de datos
-- PostgreSQL
-- MySQL
-- SQL Server
-- MongoDB
-
-### ⚙️ Herramientas
-- Git / GitHub
-- Docker
-- Linux
-- REST APIs
-- JWT Auth
-- Swagger
-
-### 📊 Datos & IA
-- Python
-- Pandas / NumPy
-- Machine Learning
-- Simulación Monte Carlo
+Desarrollo software enfocado en backend, arquitectura limpia y soluciones escalables.  
+Me especializo en APIs, bases de datos y sistemas de gestión empresariales.
 
 ---
 
-## 🚀 Proyectos destacados
+## 🧠 Stack principal
+
+### Backend
+![C#](https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet)
+![Python](https://img.shields.io/badge/Python-Flask-3776AB?style=for-the-badge&logo=python)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+### Base de datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+
+---
+
+## 🚀 Proyecto destacado
 
 ### 📊 Sistema de Gestión de Proyectos
-Sistema web completo para administrar proyectos, actividades, presupuestos y responsables.
+Aplicación web completa para administrar proyectos, actividades, presupuestos y entregables.
 
 **Stack:**
-C# (.NET API) • Flask + Jinja • PostgreSQL
+- C# (.NET API)
+- Flask + Jinja
+- PostgreSQL
 
-**Características:**
+**Incluye:**
 - Autenticación JWT
-- CRUD de proyectos y actividades
+- CRUD completo
 - Control presupuestal
-- Gestión de entregables
 - Arquitectura cliente-servidor
+- API REST documentada
 
-🔗 Repo:  
-https://github.com/critical-c/API-Front-C--DATA_BASE
-
----
-
-### 🧾 Sistemas CRUD y APIs REST
-Desarrollo de múltiples APIs y paneles administrativos con:
-- autenticación
-- roles
-- bases de datos relacionales
-- dashboards
+🔗 https://github.com/critical-c/API-Front-C--DATA_BASE
 
 ---
 
-### 📈 Proyectos de análisis y simulación
-Implementaciones académicas y prácticas usando:
-- Monte Carlo
-- Estadística aplicada
-- Series de tiempo
-- Visualización de datos
+# 📊 Estadísticas de GitHub
 
----
-
-## 📈 GitHub Stats
-
+## 🔥 Actividad y commits
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JefersonVega&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonVega&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=critical-c&show_icons=true&count_private=true&theme=tokyonight" />
+</p>
+
+## 🧠 Lenguajes más usados
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=critical-c&layout=compact&theme=tokyonight" />
+</p>
+
+## ⚡ Racha de contribuciones
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=critical-c&theme=tokyonight" />
 </p>
 
 ---
 
-## 🎯 Actualmente
+## 🎯 Enfoque actual
 
-- Mejorando arquitectura backend
-- Aprendiendo cloud y DevOps
-- Construyendo proyectos para portafolio profesional
+- Arquitectura backend limpia
+- APIs REST robustas
+- Optimización de bases de datos
+- Automatización de procesos
+- Proyectos con impacto real
 
 ---
 
 ## 📫 Contacto
 
 - GitHub: https://github.com/critical-c
-- LinkedIn: (tu link aquí)
-- Email: (tu correo aquí)
+- LinkedIn: https://www.linkedin.com/in/jeferson-vega-75a13a202/
+- Email: jefersondavidvegacardona@gmail.com
 
 ---
 
