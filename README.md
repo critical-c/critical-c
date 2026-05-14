@@ -99,7 +99,6 @@ Desarrollo de APIs modernas enfocadas en seguridad, escalabilidad y arquitectura
 # 📊 Estadísticas de GitHub
 
 ## 🔥 Actividad general
-## 🔥 Actividad general
 <p align="center">
   <img src="https://github-readme-stats-liart-phi-8h409dfgo0.vercel.app/api?username=critical-c&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
 </p>
