@@ -99,7 +99,7 @@ Desarrollo de APIs modernas enfocadas en seguridad, escalabilidad y arquitectura
 # 📊 Estadísticas de GitHub
 
 ## 🔥 Actividad general
-<p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=critical-c&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" /> </p>
+<p align="center"><img src="https://github-readme-stats-liart-phi-8h409dfgo0.vercel.app/api?username=critical-c&show_icons=true&include_all_commits=true&count_private=true&theme=merko" /> </p>
 
 ## 🧠 Lenguajes más usados
 <p align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=critical-c&layout=compact&theme=tokyonight" /> </p>
